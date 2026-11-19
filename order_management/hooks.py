@@ -2,7 +2,7 @@ app_name = "order_management"
 app_title = "Order Management"
 app_publisher = "ThanhThiet"
 app_description = "Mini ERP Order Management System"
-app_email = "thiet@example.com"
+app_email = "tn908261@gmail.com"
 app_license = "mit"
 
 # Apps

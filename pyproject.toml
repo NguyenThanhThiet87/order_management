@@ -1,7 +1,7 @@
 [project]
 name = "order_management"
 authors = [
-    { name = "ThanhThiet", email = "thiet@example.com"}
+    { name = "ThanhThiet", email = "tn908261@gmail.com"}
 ]
 description = "Mini ERP Order Management System"
 requires-python = ">=3.10"
